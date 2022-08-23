@@ -1,5 +1,5 @@
 ## Basel Committee on Banking Supervission
-
+---
 
 ### General Terminology
 ---
@@ -16,6 +16,10 @@
 ##### Pricing Model :
 `A model that is used to determine the value of instrument(mark to market or mark to model) as a functon of pricing parameters or to determine the change in the value of an instrument as a function of risk factors.`
 
+
+### Terminology for Financial Instrument
+---
+
 ##### Financial Instrument :
 `Any contract that gives rise to both a financial asset of one entity and a financial iability or equity instrument of another entity. Financial instruments indude primary financial instruments (or cash instruments) and derivative financial instruments.`
 
@@ -28,6 +32,10 @@
 ##### Look-through approach: 
 `An approach in which a bank determines the relevant capital requirements for a position that has underlyings (such as an index instrument multi-underlying option, or an equity investment in a fund) as if the underlying positions were held directly by the bank.`
 
+
+### Terminology for Market Risk Capital requirement Calculation
+---
+
 ##### Risk factor: 
 `A principal determinant of the change in value of an instrument (eg an exchange rate or interest rate).`
 
@@ -39,6 +47,11 @@
 
 ##### Risk class :
 `A defined list of risks that are used as the basis for calculating market risk capital requirements: general interest rate risk, credit spread risk (non securitisation), credit spread risk securitisation: non-correlation trading portfolio), credit spread risk (securitisation: correlationtrading portfolio), EX isk, equity risk and commodity risk.`
+
+
+
+### Terminology for Risk Metrices
+---
 
 ##### Sensitivity: 
 `A bank's estimate of the change in value of an instrument due to a small change in one of its underlying risk factors. Delta and vega rsks are sesitivitie.`
@@ -64,7 +77,9 @@
 ##### Liquidity Horizon: 
 `The time assumed to be required to exit or hedge a risk position withoutmaterialy affecting market prices in stressed market conditions.`
 
+
 ### Terminology for hedging and diversification
+---
 
 ##### Basis risk: 
 `The risk that prices of financial instruments in a hedging strategy are imperfectlycorrelated, reducing the effectiveness of the hedging strategy.`
@@ -81,7 +96,9 @@
 ##### Standalone: 
 `Being capitalised on a stand-alone basis means that risk positions are booked in a aiscrete, non-diversifiable trading book portfolio so that the risk associated with those risk positions cannot diversify, hedge or offset risk arising from other risk positions, nor be diversified,hedged or offset by them.`
 
+
 ### Terminology for risk factor eligibility and modellability
+---
 
 ##### Real prices : 
 `A term used for assessing whether risk factors pass the risk factor eligibility test. A price will be considered real if it is ) a price from an actual transaction conducted by the Dank ( a price from an actual transaction between other arm's length parties (eg at an exchange), or() a price taken from a firm quote e a price at which the bank could transact with an arm's length party).`
@@ -89,7 +106,9 @@
 ##### Modellable risk factor: 
 `Risk factors that are deemed modellable, based on the number of epresentative real price observations and additional qualitative principles related to t used for the calibration of the ES model. Risk factors that do not meet the requirements for the risk factor eligibility test are dee10.27ed as non-modellable risk factors (NMRF).`
 
-###Terminology for intemal model validation
+
+### Terminology for internal model validation
+---
 
 ##### Backtesting: 
 `The process of comparing daily actual and hypothetical proffts and losses withmodel-generated VaR measures to assess the conservatism of risk measurement systems.`
@@ -107,19 +126,17 @@
 `The daily P&L produced by revaluing the positions held at the end of theprevious day using the market data at the end of the current day. Commissions, fees, intraday trading and new/modified deals, valuation adjustments for which separate regulatory capital approaches have been otherwise specified as part of the rules and valuation adjustments which are deducted from CET1 are excluded from the HPL Valuation adjustments updated daily should uSually be included in the HPL Time effects should be treated in a consistent manner in the HPL and risk-theoretical P&L.`
 
 ##### Risk-theoretical P&L (RTPL): 
-`The daily desk-level P&L that is predicted by the valuation enginesin the trading desk risk management model using all risk factors used in the trading desk risk management model (ie including the NMRFS)
+`The daily desk-level P&L that is predicted by the valuation enginesin the trading desk risk management model using all risk factors used in the trading desk risk management model (ie including the NMRFS).`
+
 
 ### Terminology for credit valuation adjustment risk
+---
 
 ##### Credit valuation adjustment (CVA): 
 `An adjustment to the valuation of a derivative transaction to account for the credit risk of contracting parties.`
 
 ##### CVA risk : 
 `The risk of changes to CVA arising from changes in credit spreads of the contracting parties, compounded by changes to the value or variability in the value of the underlying of the derivative transaction.`
-
-
-
-
 
 
 
