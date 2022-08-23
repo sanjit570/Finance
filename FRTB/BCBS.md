@@ -1,6 +1,7 @@
 ## Basel Committee on Banking Supervission
 ---
 
+
 ### General Terminology
 ---
 
@@ -17,6 +18,7 @@
 `A model that is used to determine the value of instrument(mark to market or mark to model) as a functon of pricing parameters or to determine the change in the value of an instrument as a function of risk factors.`
 
 
+
 ### Terminology for Financial Instrument
 ---
 
@@ -31,6 +33,7 @@
 
 ##### Look-through approach: 
 `An approach in which a bank determines the relevant capital requirements for a position that has underlyings (such as an index instrument multi-underlying option, or an equity investment in a fund) as if the underlying positions were held directly by the bank.`
+
 
 
 ### Terminology for Market Risk Capital requirement Calculation
@@ -78,6 +81,7 @@
 `The time assumed to be required to exit or hedge a risk position withoutmaterialy affecting market prices in stressed market conditions.`
 
 
+
 ### Terminology for hedging and diversification
 ---
 
@@ -97,6 +101,7 @@
 `Being capitalised on a stand-alone basis means that risk positions are booked in a aiscrete, non-diversifiable trading book portfolio so that the risk associated with those risk positions cannot diversify, hedge or offset risk arising from other risk positions, nor be diversified,hedged or offset by them.`
 
 
+
 ### Terminology for risk factor eligibility and modellability
 ---
 
@@ -105,6 +110,7 @@
 
 ##### Modellable risk factor: 
 `Risk factors that are deemed modellable, based on the number of epresentative real price observations and additional qualitative principles related to t used for the calibration of the ES model. Risk factors that do not meet the requirements for the risk factor eligibility test are dee10.27ed as non-modellable risk factors (NMRF).`
+
 
 
 ### Terminology for internal model validation
@@ -127,6 +133,7 @@
 
 ##### Risk-theoretical P&L (RTPL): 
 `The daily desk-level P&L that is predicted by the valuation enginesin the trading desk risk management model using all risk factors used in the trading desk risk management model (ie including the NMRFS).`
+
 
 
 ### Terminology for credit valuation adjustment risk
